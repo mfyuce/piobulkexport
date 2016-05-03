@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.hive:hive-metastore:2.0.0.2.3.5.0-81">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hive/hive-metastore/2.0.0.2.3.5.0-81/ae597f388bef7bcbdd9a2146670a934e20b8e25b/hive-metastore-2.0.0.2.3.5.0-81.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hive/hive-metastore/2.0.0.2.3.5.0-81/b64889afa3d3612aac7a9d984299eb6b775e1fba/hive-metastore-2.0.0.2.3.5.0-81-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

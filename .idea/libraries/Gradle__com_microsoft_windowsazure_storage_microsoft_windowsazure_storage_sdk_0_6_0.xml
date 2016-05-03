@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.windowsazure.storage:microsoft-windowsazure-storage-sdk:0.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.windowsazure.storage/microsoft-windowsazure-storage-sdk/0.6.0/d228312b4b4036140f4149aa699d52a832dfb4d7/microsoft-windowsazure-storage-sdk-0.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.windowsazure.storage/microsoft-windowsazure-storage-sdk/0.6.0/9c369fc5abfc9c72dfac16e3769186fd459abb14/microsoft-windowsazure-storage-sdk-0.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

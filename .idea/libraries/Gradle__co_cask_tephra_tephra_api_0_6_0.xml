@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: co.cask.tephra:tephra-api:0.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.cask.tephra/tephra-api/0.6.0/cb55df862d048cc567518de48c423430f6baf2f5/tephra-api-0.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.cask.tephra/tephra-api/0.6.0/9220ff79bcd7c0bb361457179aea2337562e0bee/tephra-api-0.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
